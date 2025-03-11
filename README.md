@@ -59,9 +59,3 @@ npm run lint
 - Pinia for state management
 - TypeScript
 - Vite
-
-## Notes
-
-This application was built as part of the Vuetify Developer Code Challenge. It demonstrates the use of Vuetify components and Vue.js features to create a functional blog application.
-
-The application does not include authentication or a backend database, as per the challenge requirements. All data is stored in the browser's localStorage.
